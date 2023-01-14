@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeesBD",
+    "\\EmployeesBD\\Migrations",
+    "\\EmployeesBD\\Models",
+    "\\EmployeesBD\\Models\\Repositories",
+    "\\EmployeesBD\\ViewModels",
+    "\\EmployeesBD\\Views",
+    "\\EmployeesBD\\Views\\Employee",
+    "\\EmployeesBD\\wwwroot",
+    "\\EmployeesBD\\wwwroot\\images"
+  ],
+  "SelectedNode": "\\EmployeesBD\\Controllers\\EmployeeController.cs",
+  "PreviewInSolutionExplorer": false
+}
